@@ -1,16 +1,10 @@
 ---
+title: "About Me"
+date: 2020-02-26T12:25:09-06:00
+author: "Allan Sanchez"
 draft: false
-date: 2020-02-26T16:35:33-06:00
-title: "About me"
-slug: "2019/09/27/blog-oficial-webartisan" 
-description: "Este es un blog creado por Allan Sancez"
+description: "About me Allan Sanchez...!!" 
 ---
+# Hola mundo este es mi primer post
 
-
-# Acerca de me
-
-## Mi nombre es Allan Sanchez
-
-soy un estudiante de la Universidad Mariano Galvez de Guatemal
-
-[Mi GITHUB](https://github.com/Allan-Sanchez)
+![Minion](https://octodex.github.com/images/minion.png)

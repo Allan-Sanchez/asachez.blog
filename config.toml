@@ -19,7 +19,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "Allan Sanchez"
-    subtitle = "Blog Allan theme for Hugo"
+    subtitle = "Blog Allan"
     keywords = ""
     copyright = ""
     menuMore = "Show more"
